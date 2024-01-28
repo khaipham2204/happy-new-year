@@ -1,4 +1,4 @@
 print("Welcome to Dat")
-print("dat")
+print("Happy new year to Dat.....")
 print("Welcome to Dang")
-print("dang")
+print("Happy new year to Dang....")
